@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+  }
+
+  #nameDisplay {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  button {
+    font-size: 16px;
+    margin: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
